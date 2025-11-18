@@ -66,7 +66,14 @@ Me chamo Alan Kardec, tenho 20 anos e sou técnico em Edificações formado pelo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="SQL" 
+    title="AQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=src="https://github.com/user-attachments/assets/2e5e3603-18b0-4cad-a26f-d83e570206e3" 
+/>
 <br/>
 <br/>
 
