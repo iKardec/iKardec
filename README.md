@@ -31,7 +31,7 @@ Me chamo Alan Kardec, tenho 20 anos e sou técnico em Edificações formado pelo
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-top: 2px"
+    style="margin-top: 2px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -41,7 +41,7 @@ Me chamo Alan Kardec, tenho 20 anos e sou técnico em Edificações formado pelo
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    style="padding-top: 2px"
+    style="margin-top: 2px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -50,7 +50,7 @@ Me chamo Alan Kardec, tenho 20 anos e sou técnico em Edificações formado pelo
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    style="padding-top: 2px"
+    style="margin-top: 2px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />  
 <img 
@@ -59,7 +59,7 @@ Me chamo Alan Kardec, tenho 20 anos e sou técnico em Edificações formado pelo
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    style="padding-top: 2px"
+    style="margin-top: 2px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
@@ -68,7 +68,7 @@ Me chamo Alan Kardec, tenho 20 anos e sou técnico em Edificações formado pelo
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    style="padding-top: 2px"
+    style="margin-top: 2px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
@@ -77,7 +77,7 @@ Me chamo Alan Kardec, tenho 20 anos e sou técnico em Edificações formado pelo
     title="sQL"
     width="30px" 
     style="padding-right: 10px;" 
-    style="padding-top: 2px"
+    style="margin-top: 2px"
     Src="https://github.com/user-attachments/assets/2e5e3603-18b0-4cad-a26f-d83e570206e3" 
 />
 <br/>
