@@ -55,7 +55,7 @@ Comecei a atuar como Dev Front-End na Empresa Jericó Multibank em 2025.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />  
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -64,7 +64,7 @@ Comecei a atuar como Dev Front-End na Empresa Jericó Multibank em 2025.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
+    align="start" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -73,7 +73,7 @@ Comecei a atuar como Dev Front-End na Empresa Jericó Multibank em 2025.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
+    align="top" 
     alt="SQL" 
     title="sQL"
     width="30px" 
