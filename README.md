@@ -28,7 +28,7 @@ Comecei a atuar como Dev Front-End na Empresa Jericó Multibank em 2025.
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    align="top" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -37,7 +37,7 @@ Comecei a atuar como Dev Front-End na Empresa Jericó Multibank em 2025.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="top" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -46,7 +46,7 @@ Comecei a atuar como Dev Front-End na Empresa Jericó Multibank em 2025.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="top" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -55,7 +55,7 @@ Comecei a atuar como Dev Front-End na Empresa Jericó Multibank em 2025.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />  
 <img 
-    align="center" 
+    align="top" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -64,7 +64,7 @@ Comecei a atuar como Dev Front-End na Empresa Jericó Multibank em 2025.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="start" 
+    align="top" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -83,23 +83,3 @@ Comecei a atuar como Dev Front-End na Empresa Jericó Multibank em 2025.
 />
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=iKardec&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKardec&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
