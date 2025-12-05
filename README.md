@@ -1,8 +1,9 @@
 # 🧑‍💻Alan Kardec
 
-**`Desenvolvedor Júnior`**
+**`Desenvolvedor Front-End`**
 
-Me chamo Alan Kardec, tenho 20 anos e sou técnico em Edificações formado pelo IFBA junto ao meu Ensino Médio. Pude pesquisar apenas sobre minha área mas decidi ir além e iniciar projetos interdisciplinares, desde meu TCC, até em empresas nas quais já trabalhei. Atualmente curso BICT na UFBA e estou sempre buscando expandir meus conhecimentos na área de T.I.
+Me chamo Alan Kardec, tenho 20 anos, sou técnico em Edificações formado pelo IFBA. Pude pesquisar apenas sobre minha área mas decidi ir além e iniciar projetos interdisciplinares, desde meu TCC, até em empresas nas quais já trabalhei. Atualmente curso BICT na UFBA e estou sempre buscando expandir meus conhecimentos na área de T.I.
+Comecei a atuar como Dev Front-End na Empresa Jericó Multibank em 2025.
 
 <p align="left">
     </a> 
