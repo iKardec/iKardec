@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**`Desenvolvedor Front-End & Designer`**
+**`Desenvolvedor FullStack Júnior & Designer`**
 
 [![Portfolio](https://img.shields.io/badge/🌐_MEU_PORTFÓLIO-FF6B6B?style=for-the-badge&logoColor=white)](https://kardecportfolio.netlify.app)
 
@@ -10,9 +10,9 @@
 
 ---
 
-Me chamo **Alan Kardec**, tenho **20 anos**, sou **Técnico em Edificações** formado pelo **IFBA**. Pude pesquisar apenas sobre minha área, mas decidi **ir além** e iniciar projetos interdisciplinares, **desde meu TCC**, até em empresas nas quais já trabalhei. Atualmente curso **BICT na UFBA** e estou sempre buscando expandir meus conhecimentos na **área de T.I**
+Me chamo **Alan Kardec**, tenho **21 anos**, sou **Técnico em Edificações** formado pelo **IFBA** e atualmente curso **BICT na UFBA**. Pude pesquisar apenas sobre minha área, mas decidi **ir além** e iniciar projetos interdisciplinares, **desde meu TCC**, até em empresas nas quais já trabalhei. 
 
-**Comecei a atuar formalmente como Dev Front-End na Empresa Jericó Multibank em 2025.**
+**Comecei a atuar formalmente como Dev Front-End Júnior na Empresa Jericó Multibank em 2025.**
 
 <div align="center">
 
@@ -145,23 +145,18 @@ Me chamo **Alan Kardec**, tenho **20 anos**, sou **Técnico em Edificações** f
 
 ### 💼 Experiência Profissional
 
-#### **Desenvolvedor Front-End** | Jericó Multibank
-*2025 - Atual*
+#### **Desenvolvedor Front-End Júnior Temporário** | Jericó Multibank
+*2025 - 2026*
 - Desenvolvimento de interfaces web modernas e responsivas
 - Design de UI/UX com foco em experiência do usuário
 - Trabalho com tecnologias front-end de ponta
 - Colaboração em projetos interdisciplinares
-
-#### **Mestre de Obras Auxiliar** | Lessa Engenharia
-*2025*
-- Atuação na área administrativa e almoxarifado de obra na Pituba
-- Elaboração de diário de obras e controle de todas as atividades
-- Operação de sistemas ERP e gestão de ordens primárias e secundárias
+- Elaboração de aplicativos e automações internas
 ---
 
 ### 🎓 Formação Acadêmica
 
-- **Bacharelado Interdisciplinar de Ciências & Tecnologia (BICT)** | UFBA *(2024 - 2027)*
+- **Bacharelado Interdisciplinar de Ciências & Tecnologia (BICT)** | UFBA *(2024 - 2028)*
 - **Técnico em Edificações** | IFBA *(2020 - 2023)*
 
 ---
