@@ -211,18 +211,6 @@ let Alan_Kardec = {
 
 </div>
 
----
-
-<div align="center">
-
-###  *"Código limpo não é escrito seguindo regras. É escrito com amor, dedicação e **bastante comentários.**"* 
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iKardec&color=brightgreen&style=flat-square&label=Visualizações+do+Perfil)
-
----
-
-<sub>💡 **Dica:** Confira meu [portfólio](https://kardecportfolio.netlify.app) para mais!</sub>
-
-</div>
